@@ -4,14 +4,14 @@
 
 ## 1️⃣ 🧠 Týždenný zápis
 
-### 🖥️ Predmet: Počítačové architektúry
+### 🖥️ Predmet: Úvod do teoretické iformatiky 
 - [ ] Týždeň 1: 
 - [ ] Týždeň 2: 
 - [ ] Týždeň 3: 
 - [ ] Týždeň 4: 
 **Celkom:**
 
-### 🧮 Predmet: Matematika
+### 🧮 Predmet: Sebarozvoj
 - [ ] Týždeň 1: 
 - [ ] Týždeň 2: 
 - [ ] Týždeň 3: 
